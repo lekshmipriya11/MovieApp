@@ -1,0 +1,35 @@
+
+
+/*..................Header ...............*/
+.Navbar
+{
+    background-color:antiquewhite;
+}
+/* .NavContainer img
+{
+    width: "50px";
+    height: "50px";
+} */
+.NavBand
+{
+    font-weight:bolder;
+    font-size: 25px;
+}
+/* .Nav.Link 
+{
+    text-decoration: none;
+    color: white;
+    margin: 0,50px;
+} */
+.maniDiv
+{
+   /* text-align: center; */
+   /* background-color: lightpink; */
+ 
+}
+.innerDiv
+{
+    background-color:lightgray;
+    padding-left: 100px;
+  
+}
